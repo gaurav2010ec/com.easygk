@@ -10,7 +10,7 @@ accounts:
   message: "Welcome to Account related Prod APIs of Accounts Microservice"
   contactDetails:
     name: "Gaurav Kumar - Production Team"
-    email: "e0f5b0c737b8457649289136b090dd1143db79bdf76bfbed53dc008be013c3f64e37b40834cf8bb5334d3942b2fcba32"
+    email: "{cipher}e0f5b0c737b8457649289136b090dd1143db79bdf76bfbed53dc008be013c3f64e37b40834cf8bb5334d3942b2fcba32"
     phone: "1234567890"
   onCallSupport:
     -(091) 334-1234
