@@ -1,0 +1,18 @@
+#spring:
+#  config:
+#    activate:
+#      on-profile: "prod"
+
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to Account related Prod APIs of Accounts Microservice"
+  contactDetails:
+    name: "Gaurav Kumar - Production Team"
+    email: "2S7Hs@example.com"
+    phone: "1234567890"
+  onCallSupport:
+    -(091) 334-1234
+    -(091) 334-5678
+

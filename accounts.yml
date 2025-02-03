@@ -1,0 +1,41 @@
+#server:
+#    port: 8080
+#
+#spring:
+#    application:
+#        name: accounts
+#    datasource:
+#        url: jdbc:h2:mem:accountsdb
+#        driver-class-name: org.h2.Driver
+#        username: sa
+#        password: ''
+#    h2:
+#        console:
+#            enabled: true
+#    jpa:
+#        database-platform: org.hibernate.dialect.H2Dialect
+#        hibernate:
+#            ddl-auto: update
+#        show-sql: true
+#    config:
+#      import:
+#          - "accounts-qa.yml"
+#          - "accounts-prod.yml"
+#    profiles:
+#      active:
+#          - "qa"
+
+
+build:
+    version: "3.0"
+
+accounts:
+    message: "Welcome to Account related local APIs of Accounts Microservice"
+    contactDetails:
+        name: "Gaurav Kumar - Development Team"
+        email: "2S7Hs@example.com"
+        phone: "1234567890"
+    onCallSupport:
+        -(091) 234-1234
+        -(091) 234-5678
+

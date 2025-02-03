@@ -1,0 +1,16 @@
+spring:
+    config:
+        activate:
+            on-profile: "prod"
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to Loans related Production APIs of Loans Microservice"
+  contactDetails:
+    name: "Gaurav Kumar - Loan Production Team"
+    email: "production@example.com"
+    phone: "1234567890"
+  onCallSupport:
+    - (091) 434-1234
+    - (091) 434-5678
