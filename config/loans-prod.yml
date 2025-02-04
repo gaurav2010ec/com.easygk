@@ -6,7 +6,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to Loans related Prod APIs of Loans Microservice"
+  message: "Welcome to Loans related Production APIs of Loans Microservice"
   contactDetails:
     name: "Gaurav Kumar - Loan Production Team"
     email: "production@example.com"
