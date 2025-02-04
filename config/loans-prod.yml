@@ -6,7 +6,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to Loans related Production APIs of Loans Microservice new webhook"
+  message: "Welcome to Loans related Production APIs of Loans Microservice using webhook"
   contactDetails:
     name: "Gaurav Kumar - Loan Production Team"
     email: "production@example.com"
