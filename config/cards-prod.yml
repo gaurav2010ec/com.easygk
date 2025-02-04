@@ -6,7 +6,7 @@ build:
     version: "1.0"
 
 cards:
-    message: "Welcome to Cards related Production APIs of Cards Microservice new webhook"
+    message: "Welcome to Cards related Production APIs of Cards Microservice using webhook"
     contactDetails:
         name: "Gaurav Kumar - Cards Production Team"
         email: "production@example.com"
