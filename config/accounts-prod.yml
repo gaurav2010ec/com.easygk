@@ -7,7 +7,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to Account related Production APIs of Accounts Microservice using webhook"
+  message: "Welcome to Account related Production APIs of Accounts Microservice using new webhook"
   contactDetails:
     name: "Gaurav Kumar - Production Team"
     email: "{cipher}e0f5b0c737b8457649289136b090dd1143db79bdf76bfbed53dc008be013c3f64e37b40834cf8bb5334d3942b2fcba32"
