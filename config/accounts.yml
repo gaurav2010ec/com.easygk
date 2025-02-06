@@ -30,7 +30,7 @@ build:
     version: "3.0"
 
 accounts:
-    message: "Welcome to Account related local APIs of Accounts Microservice using webhook"
+    message: "Welcome to Account related local APIs of Accounts Microservice using webhook of deckhook"
     contactDetails:
         name: "Gaurav Kumar - Development Team"
         email: "2S7Hs@example.com"
