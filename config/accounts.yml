@@ -36,6 +36,6 @@ accounts:
         email: "2S7Hs@example.com"
         phone: "1234567890"
     onCallSupport:
-        -(091) 234-1234
+        -(091) 234-1234,
         -(091) 234-5678
 
